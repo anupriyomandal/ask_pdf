@@ -1,0 +1,11 @@
+fastapi
+uvicorn[standard]
+python-telegram-bot>=20.0
+typer[all]
+rich
+openai>=1.0.0
+python-dotenv
+pymupdf
+python-docx
+requests
+httpx
